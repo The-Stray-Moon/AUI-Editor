@@ -1,0 +1,8 @@
+Ore editor source, resources and tests were moved from Tower-of-Sighs/AUI.
+Upstream: https://github.com/Tower-of-Sighs/AUI
+Source revision: cda3136e251b6e41f2faf056f9c4dcb96afec039 (parent of c3f78b67).
+Upstream license: GNU Lesser General Public License, version 2.1.
+Modifications: editor package/translation namespace, standalone client commands and test configuration.
+The upstream license text is included in META-INF/licenses/AUI-LGPL-2.1.txt.
+Ore editor theme ore-edit.css is adapted from Minecraft-CSS by Jiyath5516F
+under the Mozilla Public License 2.0, retained in META-INF/licenses/Minecraft-CSS-MPL-2.0.txt.

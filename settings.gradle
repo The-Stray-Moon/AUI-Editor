@@ -1,0 +1,5 @@
+rootProject.name = 'AUI Editor'
+
+includeBuild('common') {
+    name = 'common'
+}
